@@ -1,0 +1,7 @@
+cd खरीदो-app
+git init
+git add .
+git commit -m "First commit - Kharido App uploaded"
+git remote add origin https://github.com/sunil68434/kharido-app.git
+git branch -M main
+git push -u origin main
